@@ -1,0 +1,48 @@
+﻿<!Doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AMIZONE</title>
+</head>
+<body style="background-color:#194387">
+<a href="https://amizone.net/Amizone/index.aspx">
+<img src="logo.png" style="margin-left:270px;width:180px;height:75px" >
+</a>
+<div style="width:900px;height:1300px;background-color:#e2dcce;margin-left:262px;margin-top:13px;border:solid white;border-width:5px">
+
+<div style="width:350px;height:300px;background-color:#ffb200;margin-left:47px;margin-top:47px;border:solid white;border-width:5px"><br><a href="http://amity.edu/AmityJee.aspx"><img src="amizonepic.png" alt="Pop up blocked" style="margin-left:400px;margin-top:-20px;border:solid white;border-width:5px"></a>
+	
+<h1 style="color:#593708;margin-top:15px;margin-left:20px;margin-top:-500px"> Login </h1><p style="color:#593708;margin-left:110px;margin-top:-49px;"> <strong>Student|Parent|Faculty</strong></p>
+	<form><br>
+	<table>
+	<tr>
+	<td>
+	<label for="name:Username" style="margin-left:20px"><strong>User Name&nbsp</strong></label>
+	<input type="text" name="username" size="30px" ></td></tr>
+	<tr><td></td>
+	<tr><td></td>
+	<tr>
+	<td>
+	<label for="name:pass" style="margin-left:20px"><strong>Password&nbsp&nbsp&nbsp&nbsp</strong></label>
+	<input type="text" name="pass" size="30px" >
+	</td>
+	</tr>
+<tr>
+
+<td><input type="checkbox" name="sign" style="position:relative;margin-left:120px;margin-top:-19px"><p style="margin-left:140px;margin-top:-19px"><strong>Stay signed in</strong</p><br> 
+<a href="https://amizone.net/adminamizone/webforms/fogotpassword.aspx" style="color:red;margin-left:0px;margin-top:-10px">Get password</a>
+	
+</td>
+</table>
+	</form>
+<img src="button-login.png" style="margin-top:10px;margin-left:140px">
+</div>
+<div style="width:800px;height:450px;background-color:white;margin-top:275px;margin-left:55px">
+<img src="prestegoiuse.png" alt="Pop up blocked" style="width:800px;height:450px;margin-left:0px">
+
+</div>
+</div>
+
+
+</body>
+</html>
